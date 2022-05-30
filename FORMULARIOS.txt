@@ -1,0 +1,36 @@
+    <----MEDICO---->
+        Nombre
+        Documento
+        Sexo
+        Celular
+        Especialidad
+        Descripcion
+
+    <----CITAS---->
+        Fecha
+        Hora
+        Consultorio
+        Documento_paciente
+        Documento_medico
+        /*Codigo_cancelacion
+            Motivo
+            Fecha
+
+    <----PACIENTE---->
+        Documento_paciente
+        Nombre
+        Apellido
+        Direccion
+        Email
+        Sexo
+        Celular
+        Codigo_ciudad
+        Codigo_departamento
+        Codigo_pais
+
+      /*pendiente*/
+    <----FACTURA---->
+        Codigo_cita
+        Fecha
+        Total
+        Codigo_acceso
